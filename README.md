@@ -4,8 +4,8 @@
 
 <br>
 
-<p align="right"> <h3>Visitantes :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Visitantes :-</h3> <img src="https://komarev.com/ghpvc/?username=ravokthc&label=Profile%20views&color=0e75b6&style=flat"
+    alt="ravokthc" /> 
   </p>
 
 <br>
@@ -66,11 +66,12 @@
       height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank" rel="noreferrer">   <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /></p> </a> <a href="https://www.photoshop.com/en" target="_blank"
+      height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a>
-
+    </a> 
+    </p>
 <br>
 
 <h3>Statistical Data :-</h3>
