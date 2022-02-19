@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Sahali</h1>
-<h1 align="center">Ola 👋, Eu sou Samuel Sahali</h2>
+<h2 align="center">Ola 👋, Eu sou Samuel Sahali</h2>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>
 
 <br>
